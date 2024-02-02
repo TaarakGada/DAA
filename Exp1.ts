@@ -1,3 +1,6 @@
+// Enter the array elements separated by spaces: 66.7 44.4 44.3 2 55.7
+// Min Max is:  { min: 2, max: 66.7 }
+
 import * as readline from 'readline';
 
 type MinMaxProps = {
